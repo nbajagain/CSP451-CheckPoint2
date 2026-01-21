@@ -16,7 +16,7 @@ npm run dev
 Open: http://localhost:3000
 
 ## Setup Notes
-API endpoints include health checks, user listing, and timestamp utilities.
+API endpoints include health and users routes for testing.
 
 
 ## Structure
