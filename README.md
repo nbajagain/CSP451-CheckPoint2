@@ -15,6 +15,10 @@ npm run dev
 
 Open: http://localhost:3000
 
+## Setup Notes
+API endpoints include basic health and user routes for testing.
+
+
 ## Structure
 
 - `src/app.js` — Express server entry
