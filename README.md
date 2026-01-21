@@ -20,6 +20,10 @@ Authentication requires email and password validation before login.
 
 Open: http://localhost:3000
 
+## Setup Notes
+API endpoints include health and users routes for testing.
+
+
 ## Structure
 
 - `src/app.js` — Express server entry
