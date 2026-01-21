@@ -3,3 +3,6 @@ node_modules/
 .DS_Store
 coverage/
 *.log
+
+# ignore lockfile for this lab
+package-lock.json
