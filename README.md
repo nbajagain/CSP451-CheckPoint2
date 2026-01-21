@@ -13,6 +13,10 @@ npm install
 npm run dev
 ```
 
+## Setup Notes
+Authentication requires credential validation before login.
+
+
 Open: http://localhost:3000
 
 ## Structure
