@@ -61,4 +61,6 @@ I addressed the requested changes by updating the documentation and confirming t
 Before merging, I reviewed file changes, checked formatting, and ensured the project structure remained clean and readable.
 
 ## 4) Merge Strategy
-Confirm you used **Squash and merge** and explain one benefit (clean history, easier rollback, etc.).
+I used Squash and merge for all pull requests.
+
+One major benefit of using squash and merge is that it keeps the commit history clean and easy to understand. Instead of multiple small commits, each feature is represented by a single meaningful commit, which makes reviewing history and rolling back changes much easier if needed.
