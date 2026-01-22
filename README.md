@@ -13,10 +13,13 @@ npm install
 npm run dev
 ```
 
+## Setup Notes
+Authentication requires email and password validation before login.
+API endpoints include health and users routes for testing.
+
+
 Open: http://localhost:3000
 
-## Setup Notes
-API endpoints include health and users routes for testing.
 
 
 ## Structure
